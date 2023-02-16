@@ -23,8 +23,8 @@ main {
 }
 
 section#telefone {
-    height: 527px;
-    width: 261px;
+    height: 500px;
+    width: 248px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -34,10 +34,10 @@ section#telefone {
 
 iframe#tela {
     position: relative;
-    top: 68px;
-    left: 19px;
-    height: 396px;
-    width: 223px;
+    top: 65px;
+    left: 18px;
+    height: 374px;
+    width: 212px;
 }
 
 section#redes-sociais {
